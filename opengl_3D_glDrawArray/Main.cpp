@@ -1,4 +1,4 @@
-//QlFhttp://math.hws.edu/graphicsbook/source/glut/cubes-with-vertex-arrays.c
+//å‚è€ƒï¼šhttp://math.hws.edu/graphicsbook/source/glut/cubes-with-vertex-arrays.c
 
 /* Use OpenGL to draw two cubes, one using glDrawArrays,
  * and one using glDrawElements.  The arrow keys can be
@@ -71,13 +71,13 @@ float cubeFaceColors[72] = {
         1,0,1,  1,0,1,  1,0,1,  1,0,1, }; // face #6 is red
 
 //----------------------------------------------------
-// ŠÖ”ƒvƒƒgƒ^ƒCƒviŒã‚ÉŒÄ‚Ño‚·ŠÖ”–¼‚Æˆø”‚ÌéŒ¾j
+// é–¢æ•°ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—ï¼ˆå¾Œã«å‘¼ã³å‡ºã™é–¢æ•°åã¨å¼•æ•°ã®å®£è¨€ï¼‰
 //----------------------------------------------------
 void display();
 void specialKeyFunction(int key, int x, int y);
-void initGL();  //‘å’n‚Ì•`‰æ
+void initGL(); 
 //----------------------------------------------------
-// ƒƒCƒ“ŠÖ”
+// ãƒ¡ã‚¤ãƒ³é–¢æ•°
 //----------------------------------------------------
 // ----------------------------------------------------------------------
 int main(int argc, char** argv) {
