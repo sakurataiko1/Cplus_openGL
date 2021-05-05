@@ -1,0 +1,20 @@
+Version 2.1
+1	precision
+0.020	unitlength
+0	Air
+2	Al
+3	Cu
+14	Poly
+15	Si
+16	W_SCK
+17	CF-R
+19	CF-G
+21	CF-B
+CellData
+10 x 3 x 2
+14 1 15 9 
+14 3 15 7 
+14 7 15 3 
+16 1 17 9 
+16 3 17 7 
+16 7 17 3 

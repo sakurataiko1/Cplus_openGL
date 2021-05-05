@@ -1,0 +1,8 @@
+Version 2.1
+1	precision
+0.020	unitlength
+0	Air
+14	Poly
+CellData
+3 x 1 x 1
+14 3 
