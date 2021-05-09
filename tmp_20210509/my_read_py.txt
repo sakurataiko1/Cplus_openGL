@@ -1,1 +1,12 @@
-a
+# ファイルをオープンする
+input_data = open("C:/kuroda/work/00_Data_vox/test_mini_vox.txt", "r")
+
+# 行ごとにすべて読み込んでリストデータにする
+lines = input_data.readlines()
+
+# 一行ずつ表示する
+for line in lines:
+  print(line, "\n")
+
+# ファイルをクローズする
+test_data.close()
